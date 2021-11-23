@@ -1,6 +1,0 @@
-site_name: DI 21-22
-site_url: https://fpieseljust.github.io/proves-mkdocs/
-nav:
-    - Home: index.md
-    - About: about.md
-#theme: readthedocs
